@@ -5,7 +5,7 @@
 
 ## Profesor
 
-- Manual Alba Escobar
+- Manuel Alba Escobar
 
 ## Descripción
 
